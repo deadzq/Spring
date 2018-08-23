@@ -1,5 +1,8 @@
 # Spring
-Spring相关组件阅读笔记.
+Spring相关组件阅读笔记.[转自作者seaswalker](https://github.com/seaswalker/Spring)
+
+deadzq更新:
+1.只对原UML图进行了规整美化.
 
 # 传送门
 
